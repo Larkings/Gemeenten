@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="baa36603-3436-4706-9495-4d0471b1e4ea" name="Changes" comment="added specific search" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Vue Composition API Component" />
+        <option value="JavaScript File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2bHkc5wzkqPadmKt8ewiwQp9zMy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.GemeenteControllerTest.executor": "Debug",
+    "JUnit.GemeenteControllerTest.testGetAllGemeenten.executor": "Debug",
+    "JUnit.GemeenteControllerTest.testGetGemeente.executor": "Debug",
+    "JUnit.GemeenteServiceTest.executor": "Debug",
+    "JUnit.GemeenteServiceTest.testGetGemeente.executor": "Run",
+    "JavaScript Debug.Debug Application.executor": "Debug",
+    "Maven.Gemeente [clean,-DforkCount=0...].executor": "Debug",
+    "Maven.Gemeente [clean].executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Spring Boot.GemeenteApplication (1).executor": "Run",
+    "Spring Boot.GemeenteApplication.executor": "Run",
+    "extract.method.default.visibility": "private",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/lloydvalentine/IdeaProjects/Gemeente/Gemeente-front-end/src/components",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_interpreter_path": "node",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "ts.external.directory.path": "/Applications/IntelliJ IDEA .app/Contents/plugins/javascript-impl/jsLanguageServicesImpl/external",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "postgresql",
+      "h2"
+    ],
+    "vue.recent.templates": [
+      "Vue Composition API Component"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Gemeente-front-end/src/components" />
+      <recent name="$PROJECT_DIR$/Gemeente-front-end/src/assets" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Gemeente-back-end/src/main/resources" />
+      <recent name="$PROJECT_DIR$/Gemeente-back-end/src/main/java/com/example/gemeente/service" />
+      <recent name="$PROJECT_DIR$/Gemeente-front-end/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.GemeenteApplication">
+    <configuration name="GemeenteControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Gemeente" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.gemeente.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.gemeente" />
+      <option name="MAIN_CLASS_NAME" value="com.example.gemeente.GemeenteControllerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GemeenteControllerTest.testGetAllGemeenten" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Gemeente" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.gemeente.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.gemeente" />
+      <option name="MAIN_CLASS_NAME" value="com.example.gemeente.GemeenteControllerTest" />
+      <option name="METHOD_NAME" value="testGetAllGemeenten" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GemeenteControllerTest.testGetGemeente" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Gemeente" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.gemeente.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.gemeente" />
+      <option name="MAIN_CLASS_NAME" value="com.example.gemeente.GemeenteControllerTest" />
+      <option name="METHOD_NAME" value="testGetGemeente" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GemeenteServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Gemeente" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.gemeente.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.gemeente" />
+      <option name="MAIN_CLASS_NAME" value="com.example.gemeente.GemeenteServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GemeenteServiceTest.testGetGemeente" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Gemeente" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.gemeente.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.gemeente" />
+      <option name="MAIN_CLASS_NAME" value="com.example.gemeente.GemeenteServiceTest" />
+      <option name="METHOD_NAME" value="testGetGemeente" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:8080">
+      <method v="2" />
+    </configuration>
+    <configuration name="GemeenteApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="Gemeente (1)" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.gemeente.GemeenteApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GemeenteApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="Gemeente" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.gemeente.GemeenteApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.GemeenteServiceTest" />
+        <item itemvalue="JUnit.GemeenteControllerTest.testGetGemeente" />
+        <item itemvalue="JUnit.GemeenteControllerTest.testGetAllGemeenten" />
+        <item itemvalue="JUnit.GemeenteControllerTest" />
+        <item itemvalue="JUnit.GemeenteServiceTest.testGetGemeente" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-f644763e9732-a81d5c7c" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="baa36603-3436-4706-9495-4d0471b1e4ea" name="Changes" comment="" />
+      <created>1705879468606</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1705879468606</updated>
+      <workItem from="1705879469710" duration="15543000" />
+      <workItem from="1706031261041" duration="694000" />
+      <workItem from="1706222625796" duration="2117000" />
+      <workItem from="1706275978100" duration="3830000" />
+      <workItem from="1706376391973" duration="1328000" />
+      <workItem from="1706432901420" duration="1086000" />
+      <workItem from="1706435182945" duration="38891000" />
+      <workItem from="1706548855145" duration="650000" />
+      <workItem from="1706557134891" duration="1902000" />
+      <workItem from="1706561517945" duration="829000" />
+      <workItem from="1706563477247" duration="1294000" />
+      <workItem from="1706651409433" duration="10385000" />
+      <workItem from="1706705876592" duration="2498000" />
+      <workItem from="1707175458144" duration="5116000" />
+      <workItem from="1707180840084" duration="1316000" />
+      <workItem from="1707220577155" duration="1681000" />
+      <workItem from="1707226091051" duration="823000" />
+      <workItem from="1707393505741" duration="1715000" />
+      <workItem from="1707416875332" duration="85000" />
+      <workItem from="1708700213626" duration="2375000" />
+      <workItem from="1709756938776" duration="2138000" />
+    </task>
+    <task id="LOCAL-00001" summary="Deleted unrelevant package">
+      <option name="closed" value="true" />
+      <created>1705879530014</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1705879530014</updated>
+    </task>
+    <task id="LOCAL-00002" summary="added specific search">
+      <option name="closed" value="true" />
+      <created>1705893807567</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1705893807567</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/Gemeente-front-end" />
+    </ignored-roots>
+    <MESSAGE value="Deleted unrelevant package" />
+    <MESSAGE value="Added front-end, and some styling" />
+    <MESSAGE value="added specific search" />
+    <option name="LAST_COMMIT_MESSAGE" value="added specific search" />
+  </component>
+</project>
