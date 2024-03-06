@@ -44,7 +44,6 @@ public class GemeenteService {
           gemeente.setGemeente(gemeenteJson.getGemeente());
           gemeente.setProvincie(provincie);
           gemeente.setInwoners(gemeenteJson.getInwoners());
-          provincie.getGemeenten().add(gemeente);
           gemeenten.add(gemeente);
         }
       }
